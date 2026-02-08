@@ -1,4 +1,4 @@
-# SCaRUBBING
+# SCaRUBBING (**November, 2021**)
 
 A beginner programming exercise written on **November, 2021** as an early practice project when first learning to code.
 
