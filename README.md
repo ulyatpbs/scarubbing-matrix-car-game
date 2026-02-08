@@ -7,7 +7,7 @@ Simulate a brush-equipped toy car moving on an $N \times N$ grid, drawing patter
 
 ## Usage
 ```bash
-python3 assignment2.py
+python3 SCaRUBBING.py
 ```
 Enter commands separated by `+`:
 ```
