@@ -13,7 +13,7 @@ Enter commands separated by `+`:
 ```
 5+3+1+5_3+1+3+5_2+6+2+5_2+1+7+5_4+5_3+8+0
 ```
-<-----RULES----->
+## RULES
 1. BRUSH DOWN
 2. BRUSH UP
 3. VEHICLE ROTATES RIGHT
